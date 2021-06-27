@@ -10,14 +10,8 @@ Intern developer
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  <p align='center'>
-  📫  How to reach me: <a href='mailto:zhasickx@gmail.com'>roman.beskrovnyy@gmail.com</a>
+  📫  How to reach me: <a href='mailto:zhasickx@gmail.com'>zhasickx@gmail.com</a>
 </p>
-
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
 ## 🛠 Technical Stack
 *   Java/Node JS
